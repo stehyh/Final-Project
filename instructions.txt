@@ -1,0 +1,2 @@
+This is a keyboard that displays the keys being played and outputs the piano note accordingly. 
+You can press or hold the keys on your keyboard (q,w,e,r,t,y,u,i,o,p,[) to play the sounds).
